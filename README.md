@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vicky-Zhan
-- 👀 I’m interested in Integrated Circuit,RF,FPGA...
+- 👀 I’m interested in IC design,the embedded system,FPGA...
 - 🌱 I currently major in Microelectronic Science and Engineering.
 - 📫 How to reach me u202311706@hust.edu.cn
 
